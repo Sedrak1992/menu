@@ -4,16 +4,15 @@
   box-sizing: border-box;
   color: #fff;
 }
-span{
+span {
   color: #fff;
   font-size: 30px;
 }
-span:hover{
+span:hover {
   color: #000;
 }
-button:hover{
+button:hover {
   background: rgb(109, 107, 107);
-  
 }
 button {
   padding: 4px 10px;
@@ -37,7 +36,6 @@ button {
   height: 95vh;
   background: rgb(82, 71, 71);
   border-radius: 0 0 30px 30px;
-
 }
 .menu_active {
   height: 150px !important;
@@ -49,7 +47,7 @@ header {
   height: 50px;
   padding-left: 12px;
 }
-.menu h2:hover{
+.menu h2:hover {
   background: rgb(212, 223, 212);
   cursor: pointer;
   color: #000;
@@ -74,10 +72,10 @@ i {
 nav {
   padding: 10px 0 10px 10px;
 }
- nav > h2{
-   padding: 10px 0  20px 0;
- }
- nav > p{
-  padding: 10px 0  20px 0;
+nav > h2 {
+  padding: 10px 0 20px 0;
+}
+nav > p {
+  padding: 10px 0 20px 0;
   font-size: 20px;
 }
